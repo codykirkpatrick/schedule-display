@@ -32,9 +32,13 @@ Displays our department class schedule in easy to read tables
   GY 2036
   ```
 
-## Output
+## Example output file
 
-Usually to the screen, but can of course be directed to a file.  Prints these sections, in order:
+See SP24WORK.OUT for the full file.  This version includes page break characters (ASCII code 12) for ready printing.
+
+## Output details
+
+The printed version is usually about 10 pages for us, so it's best directed to a file and not displayed on screen.  Prints these sections, in order:
 
 - Individual faculty schedules
 
