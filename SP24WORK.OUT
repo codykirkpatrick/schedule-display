@@ -1,0 +1,589 @@
+===========================================                SPR 24
+=         WELCOME TO THE SCHEDULE         =             SPR 24
+===========================================          SPR 24
+
+READ IN  4 ROOMS FROM ROOMS.TXT
+READ IN 19 NAMES FROM FACULTY.TXT
+READ IN 54 SECTIONS FROM SP24WORK.TXT 
+PRINTED ON 02-08-2024 AT 10:23
+
+------------------------------
+INDIVIDUAL FACULTY LISTINGS...
+------------------------------
+
+ - COURSES FOR KIEU...
+    1 - EAS-E 227      - MWF   - 1350 - 1440 - GY 2029    
+    2 - EAS-G 594      - TR    - 1500 - 1615 - GY 2049    
+   FOUND 2 COURSES. 
+
+ - COURSES FOR KIRKPATRICK...
+    1 - EAS-E 144      - TR    - 1315 - 1430 - ED 1120    
+    2 - NN A 537/437   - MWF   - 1130 - 1220 - GY 2033    
+   FOUND 2 COURSES. 
+
+ - COURSES FOR KRAVITZ...
+   DID NOT FIND ANY COURSES.
+
+ - COURSES FOR OBRIEN...
+    1 - EAS-A 122      - MW    - 1315 - 1430 - GY 2049    
+   FOUND 1 COURSE.
+
+ - COURSES FOR STATEN...
+    1 - XX A 700/347   - TR    -  945 - 1100 - GY 4069    
+   FOUND 1 COURSE.
+
+ - COURSES FOR BRASSELL...
+    1 - COLL-C 105     - TR    -  910 - 1000 - CH 033     
+    2 - EAS-E 131      - NA    -    0 -    0 - ONLINE     
+   FOUND 2 COURSES. 
+
+ - COURSES FOR EDMONDS...
+   DID NOT FIND ANY COURSES.
+
+ - COURSES FOR ELSWICK...
+    1 - EAS-X 329      - F     - 1020 - 1120 - GY 2049    
+    2 - EAS-X 329      - F     - 1240 - 1640 - GY 2049    
+    3 - EAS-E 406      - TR    -  945 - 1100 - GY 2049    
+   FOUND 3 COURSES. 
+
+ - COURSES FOR GONG...
+    1 - EAS-E 554/454  - MW    -  945 - 1100 - GY 2029    
+   FOUND 1 COURSE.
+
+ - COURSES FOR HAMBURGER...
+    1 - EAS-E 116      - NA    -    0 -    0 - ASPIRE     
+    2 - EAS-G 637      - UNK   -    0 -    0 - TBD        
+   FOUND 2 COURSES. 
+
+ - COURSES FOR JOHNSON C...
+    1 - EAS-E 700/341  - TR    - 1500 - 1615 - GY 5051    
+   FOUND 1 COURSE.
+
+ - COURSES FOR JOHNSON K...
+    1 - EAS-G 520      - MWF   - 1130 - 1220 - GY 2029    
+   FOUND 1 COURSE.
+
+ - COURSES FOR KENDERES...
+    1 - EAS-E 105      - MW    - 1020 - 1110 - GY 1045    
+    2 - EAS-X 150      - TR    -  945 - 1100 - GY 5051    
+    3 - EAS-E 417      - TR    - 1315 - 1430 - GY 2049    
+   FOUND 3 COURSES. 
+
+ - COURSES FOR POLLY...
+    1 - EAS-E 114      - MW    - 1130 - 1220 - GY 1045    
+   FOUND 1 COURSE.
+
+ - COURSES FOR RADER...
+    1 - EAS-E 316      - MW    -  945 - 1100 - GY 2033    
+    2 - EAS-E 490/583  - MW    - 1130 - 1245 - GY 2049    
+   FOUND 2 COURSES. 
+
+ - COURSES FOR SCHIEBER...
+    1 - EAS-X 420      - W     - 1500 - 1700 - GY 2033    
+   FOUND 1 COURSE.
+
+ - COURSES FOR STEVENS-GODDARD...
+    1 - EAS-E 333      - MWF   - 1350 - 1440 - GY 5051    
+    2 - EAS-E 333      - R     - 1130 - 1330 - GY 5051    
+   FOUND 2 COURSES. 
+
+ - COURSES FOR YANITES...
+    1 - XX EAS-G 690   - R     - 1350 - 1620 - GY 2033    
+   FOUND 1 COURSE.
+
+ - COURSES FOR ZHU...
+    1 - EAS-E 451      - TR    - 1500 - 1615 - GY 4069    
+    2 - EAS-G 586      - F     - 1100 - 1330 - GY 5051    
+   FOUND 2 COURSES. 
+
+FACULTY LISTING DONE.
+
+----------------------
+OVERALL DAILY SCHEDULE
+----------------------
+
+COURSES THAT MEET ON MONDAY
+  1 EAS-E 316      - RADER            - MW    -  945 - 1100 - GY 2033
+  2 EAS-E 554/454  - GONG             - MW    -  945 - 1100 - GY 2029
+  3 EAS-E 105      - KENDERES         - MW    - 1020 - 1110 - GY 1045
+  4 EAS-G 520      - JOHNSON K        - MWF   - 1130 - 1220 - GY 2029
+  5 NN A 537/437   - KIRKPATRICK      - MWF   - 1130 - 1220 - GY 2033
+  6 EAS-E 114      - POLLY            - MW    - 1130 - 1220 - GY 1045
+  7 EAS-E DDD      - AVAILABLE        - MWF   - 1130 - 1220 - UNWORKABLE
+  8 EAS-E 490/583  - RADER            - MW    - 1130 - 1245 - GY 2049
+  9 EAS-E EEE      - AVAILABLE        - MW    - 1130 - 1245 - GY 5051
+ 10 EAS-E BBB      - AVAILABLE        - MWF   - 1240 - 1330 - GY 2029
+ 11 EAS-A 122      - OBRIEN           - MW    - 1315 - 1430 - GY 2049
+ 12 EAS-E 227      - KIEU             - MWF   - 1350 - 1440 - GY 2029
+ 13 EAS-E 333      - STEVENS-GODDARD  - MWF   - 1350 - 1440 - GY 5051
+ 14 EAS-E 227      - NJAU             - MWF   - 1350 - 1440 - TEAMTAUGHT
+ 15 EAS-E 105      - E105LAB          - M     - 1350 - 1550 - GY 2033
+ 16 EAS-E FFF      - AVAILABLE        - MW    - 1500 - 1615 - GY 2049
+ 17 EAS-E 114      - E114LAB          - M     - 1500 - 1650 - GY 5051
+ 18 COLLOQUIUM     - EVERYONE         - M     - 1530 - 1700 - TBD
+ 19 EAS-E 105      - E105LAB          - M     - 1610 - 1810 - GY 2033
+ 20 EAS-E 114      - E114LAB          - M     - 1720 - 1910 - GY 5051
+
+COURSES THAT MEET ON TUESDAY
+  1 COLL-C 105     - BRASSELL         - TR    -  910 - 1000 - CH 033
+  2 EAS-X 150      - KENDERES         - TR    -  945 - 1100 - GY 5051
+  3 XX A 700/347   - STATEN           - TR    -  945 - 1100 - GY 4069
+  4 EAS-E 406      - ELSWICK          - TR    -  945 - 1100 - GY 2049
+  5 NN COLL-C 105  - C105LAB          - T     - 1020 - 1110 - GY 2029
+  6 EAS-E 104      - NJAU             - TR    - 1130 - 1220 - GY 1050
+  7 NN COLL-C 105  - C105LAB          - T     - 1130 - 1220 - GY 2029
+  8 EAS-E CCC      - AVAILABLE        - TR    - 1130 - 1245 - GY 2049
+  9 EAS-E 105      - E105LAB          - T     - 1130 - 1330 - GY 2033
+ 10 NN COLL-C 105  - C105LAB          - T     - 1240 - 1330 - GY 2029
+ 11 EAS-E 417      - KENDERES         - TR    - 1315 - 1430 - GY 2049
+ 12 EAS-E 144      - KIRKPATRICK      - TR    - 1315 - 1430 - ED 1120
+ 13 NN COLL-C 105  - C105LAB          - T     - 1350 - 1440 - GY 2029
+ 14 EAS-E 105      - E105LAB          - T     - 1350 - 1550 - GY 2033
+ 15 NN COLL-C 105  - C105LAB          - T     - 1500 - 1550 - GY 2029
+ 16 EAS-E 451      - ZHU              - TR    - 1500 - 1615 - GY 4069
+ 17 EAS-G 594      - KIEU             - TR    - 1500 - 1615 - GY 2049
+ 18 EAS-E 700/341  - JOHNSON C        - TR    - 1500 - 1615 - GY 5051
+ 19 EAS-E 105      - E105LAB          - T     - 1610 - 1810 - GY 2033
+
+COURSES THAT MEET ON WEDNESDAY
+  1 EAS-E 316      - RADER            - MW    -  945 - 1100 - GY 2033
+  2 EAS-E 554/454  - GONG             - MW    -  945 - 1100 - GY 2029
+  3 EAS-E 105      - KENDERES         - MW    - 1020 - 1110 - GY 1045
+  4 EAS-G 520      - JOHNSON K        - MWF   - 1130 - 1220 - GY 2029
+  5 NN A 537/437   - KIRKPATRICK      - MWF   - 1130 - 1220 - GY 2033
+  6 EAS-E 114      - POLLY            - MW    - 1130 - 1220 - GY 1045
+  7 EAS-E DDD      - AVAILABLE        - MWF   - 1130 - 1220 - UNWORKABLE
+  8 EAS-E 490/583  - RADER            - MW    - 1130 - 1245 - GY 2049
+  9 EAS-E EEE      - AVAILABLE        - MW    - 1130 - 1245 - GY 5051
+ 10 EAS-E BBB      - AVAILABLE        - MWF   - 1240 - 1330 - GY 2029
+ 11 EAS-A 122      - OBRIEN           - MW    - 1315 - 1430 - GY 2049
+ 12 EAS-E 227      - KIEU             - MWF   - 1350 - 1440 - GY 2029
+ 13 EAS-E 333      - STEVENS-GODDARD  - MWF   - 1350 - 1440 - GY 5051
+ 14 EAS-E 227      - NJAU             - MWF   - 1350 - 1440 - TEAMTAUGHT
+ 15 EAS-E FFF      - AVAILABLE        - MW    - 1500 - 1615 - GY 2049
+ 16 EAS-E 114      - E114LAB          - W     - 1500 - 1650 - GY 5051
+ 17 EAS-X 420      - SCHIEBER         - W     - 1500 - 1700 - GY 2033
+ 18 FAC MTG        - EVERYONE         - W     - 1530 - 1700 - TBD
+ 19 EAS-E 114      - E114LAB          - W     - 1720 - 1910 - GY 5051
+
+COURSES THAT MEET ON THURSDAY
+  1 COLL-C 105     - BRASSELL         - TR    -  910 - 1000 - CH 033
+  2 EAS-X 150      - KENDERES         - TR    -  945 - 1100 - GY 5051
+  3 XX A 700/347   - STATEN           - TR    -  945 - 1100 - GY 4069
+  4 EAS-E 406      - ELSWICK          - TR    -  945 - 1100 - GY 2049
+  5 EAS-E 104      - NJAU             - TR    - 1130 - 1220 - GY 1050
+  6 EAS-E CCC      - AVAILABLE        - TR    - 1130 - 1245 - GY 2049
+  7 EAS-E 333      - STEVENS-GODDARD  - R     - 1130 - 1330 - GY 5051
+  8 EAS-E 104      - 104LAB           - R     - 1240 - 1440 - GY 2029
+  9 EAS-E 417      - KENDERES         - TR    - 1315 - 1430 - GY 2049
+ 10 EAS-E 144      - KIRKPATRICK      - TR    - 1315 - 1430 - ED 1120
+ 11 XX EAS-G 690   - YANITES          - R     - 1350 - 1620 - GY 2033
+ 12 EAS-G 594      - KIEU             - TR    - 1500 - 1615 - GY 2049
+ 13 EAS-E 700/341  - JOHNSON C        - TR    - 1500 - 1615 - GY 5051
+ 14 EAS-E 451      - ZHU              - TR    - 1500 - 1615 - GY 4069
+ 15 EAS-E 104      - 104LAB           - R     - 1500 - 1700 - GY 2029
+ 16 EAS-E 104      - 104LAB           - R     - 1720 - 1920 - GY 2029
+
+COURSES THAT MEET ON FRIDAY
+  1 EAS-X 329      - ELSWICK          - F     - 1020 - 1120 - GY 2049
+  2 EAS-G 586      - ZHU              - F     - 1100 - 1330 - GY 5051
+  3 NN A 537/437   - KIRKPATRICK      - MWF   - 1130 - 1220 - GY 2033
+  4 EAS-G 520      - JOHNSON K        - MWF   - 1130 - 1220 - GY 2029
+  5 EAS-E DDD      - AVAILABLE        - MWF   - 1130 - 1220 - UNWORKABLE
+  6 EAS-E BBB      - AVAILABLE        - MWF   - 1240 - 1330 - GY 2029
+  7 EAS-X 329      - ELSWICK          - F     - 1240 - 1640 - GY 2049
+  8 EAS-E 333      - STEVENS-GODDARD  - MWF   - 1350 - 1440 - GY 5051
+  9 EAS-E 227      - KIEU             - MWF   - 1350 - 1440 - GY 2029
+ 10 EAS-E 227      - NJAU             - MWF   - 1350 - 1440 - TEAMTAUGHT
+
+
+-----------------
+ROOM USAGE BY DAY
+-----------------
+
+GY 2029
+  DAY: M
+  1 EAS-E 554/454   - GONG             - MW    -  945 - 1100
+  2 EAS-G 520       - JOHNSON K        - MWF   - 1130 - 1220
+  3 EAS-E BBB       - AVAILABLE        - MWF   - 1240 - 1330
+  4 EAS-E 227       - KIEU             - MWF   - 1350 - 1440
+  DAY: T
+  1 NN COLL-C 105   - C105LAB          - T     - 1020 - 1110
+  2 NN COLL-C 105   - C105LAB          - T     - 1130 - 1220
+  3 NN COLL-C 105   - C105LAB          - T     - 1240 - 1330
+  4 NN COLL-C 105   - C105LAB          - T     - 1350 - 1440
+  5 NN COLL-C 105   - C105LAB          - T     - 1500 - 1550
+  DAY: W
+  1 EAS-E 554/454   - GONG             - MW    -  945 - 1100
+  2 EAS-G 520       - JOHNSON K        - MWF   - 1130 - 1220
+  3 EAS-E BBB       - AVAILABLE        - MWF   - 1240 - 1330
+  4 EAS-E 227       - KIEU             - MWF   - 1350 - 1440
+  DAY: R
+  1 EAS-E 104       - 104LAB           - R     - 1240 - 1440
+  2 EAS-E 104       - 104LAB           - R     - 1500 - 1700
+  3 EAS-E 104       - 104LAB           - R     - 1720 - 1920
+  DAY: F
+  1 EAS-G 520       - JOHNSON K        - MWF   - 1130 - 1220
+  2 EAS-E BBB       - AVAILABLE        - MWF   - 1240 - 1330
+  3 EAS-E 227       - KIEU             - MWF   - 1350 - 1440
+
+GY 2033
+  DAY: M
+  1 EAS-E 316       - RADER            - MW    -  945 - 1100
+  2 NN A 537/437    - KIRKPATRICK      - MWF   - 1130 - 1220
+  3 EAS-E 105       - E105LAB          - M     - 1350 - 1550
+  4 EAS-E 105       - E105LAB          - M     - 1610 - 1810
+  DAY: T
+  1 EAS-E 105       - E105LAB          - T     - 1130 - 1330
+  2 EAS-E 105       - E105LAB          - T     - 1350 - 1550
+  3 EAS-E 105       - E105LAB          - T     - 1610 - 1810
+  DAY: W
+  1 EAS-E 316       - RADER            - MW    -  945 - 1100
+  2 NN A 537/437    - KIRKPATRICK      - MWF   - 1130 - 1220
+  3 EAS-X 420       - SCHIEBER         - W     - 1500 - 1700
+  DAY: R
+  1 XX EAS-G 690    - YANITES          - R     - 1350 - 1620
+  DAY: F
+  1 NN A 537/437    - KIRKPATRICK      - MWF   - 1130 - 1220
+
+GY 2049
+  DAY: M
+  1 EAS-E 490/583   - RADER            - MW    - 1130 - 1245
+  2 EAS-A 122       - OBRIEN           - MW    - 1315 - 1430
+  3 EAS-E FFF       - AVAILABLE        - MW    - 1500 - 1615
+  DAY: T
+  1 EAS-E 406       - ELSWICK          - TR    -  945 - 1100
+  2 EAS-E CCC       - AVAILABLE        - TR    - 1130 - 1245
+  3 EAS-E 417       - KENDERES         - TR    - 1315 - 1430
+  4 EAS-G 594       - KIEU             - TR    - 1500 - 1615
+  DAY: W
+  1 EAS-E 490/583   - RADER            - MW    - 1130 - 1245
+  2 EAS-A 122       - OBRIEN           - MW    - 1315 - 1430
+  3 EAS-E FFF       - AVAILABLE        - MW    - 1500 - 1615
+  DAY: R
+  1 EAS-E 406       - ELSWICK          - TR    -  945 - 1100
+  2 EAS-E CCC       - AVAILABLE        - TR    - 1130 - 1245
+  3 EAS-E 417       - KENDERES         - TR    - 1315 - 1430
+  4 EAS-G 594       - KIEU             - TR    - 1500 - 1615
+  DAY: F
+  1 EAS-X 329       - ELSWICK          - F     - 1020 - 1120
+  2 EAS-X 329       - ELSWICK          - F     - 1240 - 1640
+
+GY 5051
+  DAY: M
+  1 EAS-E EEE       - AVAILABLE        - MW    - 1130 - 1245
+  2 EAS-E 333       - STEVENS-GODDARD  - MWF   - 1350 - 1440
+  3 EAS-E 114       - E114LAB          - M     - 1500 - 1650
+  4 EAS-E 114       - E114LAB          - M     - 1720 - 1910
+  DAY: T
+  1 EAS-X 150       - KENDERES         - TR    -  945 - 1100
+  2 EAS-E 700/341   - JOHNSON C        - TR    - 1500 - 1615
+  DAY: W
+  1 EAS-E EEE       - AVAILABLE        - MW    - 1130 - 1245
+  2 EAS-E 333       - STEVENS-GODDARD  - MWF   - 1350 - 1440
+  3 EAS-E 114       - E114LAB          - W     - 1500 - 1650
+  4 EAS-E 114       - E114LAB          - W     - 1720 - 1910
+  DAY: R
+  1 EAS-X 150       - KENDERES         - TR    -  945 - 1100
+  2 EAS-E 333       - STEVENS-GODDARD  - R     - 1130 - 1330
+  3 EAS-E 700/341   - JOHNSON C        - TR    - 1500 - 1615
+  DAY: F
+  1 EAS-G 586       - ZHU              - F     - 1100 - 1330
+  2 EAS-E 333       - STEVENS-GODDARD  - MWF   - 1350 - 1440
+
+
+------------------------------
+CHECKING FOR ROOM CONFLICTS...
+------------------------------
+ - CHECKING GY 2029 ...
+ - CHECKING GY 2033 ...
+ - CHECKING GY 2049 ...
+ - CHECKING GY 5051 ...
+CONFLICT CHECK DONE.
+
+
+-----------------------
+COURSE ROOM ASSIGNMENTS
+-----------------------
+
+ROOM: GY 2029
+ EAS-G 520      - JOHNSON K      - MWF   - 1130 - 1220
+ EAS-E BBB      - AVAILABLE      - MWF   - 1240 - 1330
+ EAS-E 227      - KIEU           - MWF   - 1350 - 1440
+ EAS-E 554/454  - GONG           - MW    -  945 - 1100
+ NN COLL-C 105  - C105LAB        - T     - 1020 - 1110
+ NN COLL-C 105  - C105LAB        - T     - 1130 - 1220
+ NN COLL-C 105  - C105LAB        - T     - 1240 - 1330
+ NN COLL-C 105  - C105LAB        - T     - 1350 - 1440
+ NN COLL-C 105  - C105LAB        - T     - 1500 - 1550
+ EAS-E 104      - 104LAB         - R     - 1240 - 1440
+ EAS-E 104      - 104LAB         - R     - 1500 - 1700
+ EAS-E 104      - 104LAB         - R     - 1720 - 1920
+
+ROOM: GY 2033
+ NN A 537/437   - KIRKPATRICK    - MWF   - 1130 - 1220
+ EAS-E 316      - RADER          - MW    -  945 - 1100
+ EAS-E 105      - E105LAB        - M     - 1350 - 1550
+ EAS-E 105      - E105LAB        - M     - 1610 - 1810
+ EAS-E 105      - E105LAB        - T     - 1130 - 1330
+ EAS-E 105      - E105LAB        - T     - 1350 - 1550
+ EAS-E 105      - E105LAB        - T     - 1610 - 1810
+ EAS-X 420      - SCHIEBER       - W     - 1500 - 1700
+ XX EAS-G 690   - YANITES        - R     - 1350 - 1620
+
+ROOM: GY 2049
+ EAS-E 490/583  - RADER          - MW    - 1130 - 1245
+ EAS-A 122      - OBRIEN         - MW    - 1315 - 1430
+ EAS-E FFF      - AVAILABLE      - MW    - 1500 - 1615
+ EAS-E 406      - ELSWICK        - TR    -  945 - 1100
+ EAS-E CCC      - AVAILABLE      - TR    - 1130 - 1245
+ EAS-E 417      - KENDERES       - TR    - 1315 - 1430
+ EAS-G 594      - KIEU           - TR    - 1500 - 1615
+ EAS-X 329      - ELSWICK        - F     - 1020 - 1120
+ EAS-X 329      - ELSWICK        - F     - 1240 - 1640
+
+ROOM: GY 5051
+ EAS-E 333      - STEVENS-GODDAR - MWF   - 1350 - 1440
+ EAS-E EEE      - AVAILABLE      - MW    - 1130 - 1245
+ EAS-X 150      - KENDERES       - TR    -  945 - 1100
+ EAS-E 700/341  - JOHNSON C      - TR    - 1500 - 1615
+ EAS-E 114      - E114LAB        - M     - 1500 - 1650
+ EAS-E 114      - E114LAB        - M     - 1720 - 1910
+ EAS-E 114      - E114LAB        - W     - 1500 - 1650
+ EAS-E 114      - E114LAB        - W     - 1720 - 1910
+ EAS-E 333      - STEVENS-GODDAR - R     - 1130 - 1330
+ EAS-G 586      - ZHU            - F     - 1100 - 1330
+
+
+               SPR 24  - GY 2029 WEEKLY USAGE - SPR 24 
+   DOES NOT SHOW EXACT START/END TIMES, ONLY USAGE IN 15-MIN BLOCKS
+
+     |   MONDAY   |  TUESDAY   | WEDNESDAY  |  THURSDAY  |   FRIDAY
+----- ------------ ------------ ------------ ------------ ------------
+ 830 |            |            |            |            |            |
+ 845 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+ 900 |            |            |            |            |            |
+ 915 |            |            |            |            |            |
+ 930 |            |            |            |            |            |
+ 945 | 454 GONG   |            | 454 GONG   |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1000 | 454 GONG   |            | 454 GONG   |            |            |
+1015 | 454 GONG   |            | 454 GONG   |            |            |
+1030 | 454 GONG   | 105 C105LA | 454 GONG   |            |            |
+1045 | 454 GONG   | 105 C105LA | 454 GONG   |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1100 | 454 GONG   | 105 C105LA | 454 GONG   |            |            |
+1115 |            |            |            |            |            |
+1130 | 520 JOHNSO | 105 C105LA | 520 JOHNSO |            | 520 JOHNSO |
+1145 | 520 JOHNSO | 105 C105LA | 520 JOHNSO |            | 520 JOHNSO |
+----- ------------ ------------ ------------ ------------ ------------
+1200 | 520 JOHNSO | 105 C105LA | 520 JOHNSO |            | 520 JOHNSO |
+1215 | 520 JOHNSO | 105 C105LA | 520 JOHNSO |            | 520 JOHNSO |
+1230 |            |            |            |            |            |
+1245 | BBB AVAILA | 105 C105LA | BBB AVAILA | 104 104LAB | BBB AVAILA |
+----- ------------ ------------ ------------ ------------ ------------
+1300 | BBB AVAILA | 105 C105LA | BBB AVAILA | 104 104LAB | BBB AVAILA |
+1315 | BBB AVAILA | 105 C105LA | BBB AVAILA | 104 104LAB | BBB AVAILA |
+1330 | BBB AVAILA | 105 C105LA | BBB AVAILA | 104 104LAB | BBB AVAILA |
+1345 |            |            |            | 104 104LAB |            |
+----- ------------ ------------ ------------ ------------ ------------
+1400 | 227 KIEU   | 105 C105LA | 227 KIEU   | 104 104LAB | 227 KIEU   |
+1415 | 227 KIEU   | 105 C105LA | 227 KIEU   | 104 104LAB | 227 KIEU   |
+1430 | 227 KIEU   | 105 C105LA | 227 KIEU   | 104 104LAB | 227 KIEU   |
+1445 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1500 |            | 105 C105LA |            | 104 104LAB |            |
+1515 |            | 105 C105LA |            | 104 104LAB |            |
+1530 |            | 105 C105LA |            | 104 104LAB |            |
+1545 |            | 105 C105LA |            | 104 104LAB |            |
+----- ------------ ------------ ------------ ------------ ------------
+1600 |            |            |            | 104 104LAB |            |
+1615 |            |            |            | 104 104LAB |            |
+1630 |            |            |            | 104 104LAB |            |
+1645 |            |            |            | 104 104LAB |            |
+----- ------------ ------------ ------------ ------------ ------------
+1700 |            |            |            | 104 104LAB |            |
+1715 |            |            |            |            |            |
+1730 |            |            |            | 104 104LAB |            |
+1745 |            |            |            | 104 104LAB |            |
+----- ------------ ------------ ------------ ------------ ------------
+1800 |            |            |            | 104 104LAB |            |
+1815 |            |            |            | 104 104LAB |            |
+
+
+
+               SPR 24  - GY 2033 WEEKLY USAGE - SPR 24 
+   DOES NOT SHOW EXACT START/END TIMES, ONLY USAGE IN 15-MIN BLOCKS
+
+     |   MONDAY   |  TUESDAY   | WEDNESDAY  |  THURSDAY  |   FRIDAY
+----- ------------ ------------ ------------ ------------ ------------
+ 830 |            |            |            |            |            |
+ 845 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+ 900 |            |            |            |            |            |
+ 915 |            |            |            |            |            |
+ 930 |            |            |            |            |            |
+ 945 | 316 RADER  |            | 316 RADER  |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1000 | 316 RADER  |            | 316 RADER  |            |            |
+1015 | 316 RADER  |            | 316 RADER  |            |            |
+1030 | 316 RADER  |            | 316 RADER  |            |            |
+1045 | 316 RADER  |            | 316 RADER  |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1100 | 316 RADER  |            | 316 RADER  |            |            |
+1115 |            |            |            |            |            |
+1130 | 437 KIRKPA | 105 E105LA | 437 KIRKPA |            | 437 KIRKPA |
+1145 | 437 KIRKPA | 105 E105LA | 437 KIRKPA |            | 437 KIRKPA |
+----- ------------ ------------ ------------ ------------ ------------
+1200 | 437 KIRKPA | 105 E105LA | 437 KIRKPA |            | 437 KIRKPA |
+1215 | 437 KIRKPA | 105 E105LA | 437 KIRKPA |            | 437 KIRKPA |
+1230 |            | 105 E105LA |            |            |            |
+1245 |            | 105 E105LA |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1300 |            | 105 E105LA |            |            |            |
+1315 |            | 105 E105LA |            |            |            |
+1330 |            | 105 E105LA |            |            |            |
+1345 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1400 | 105 E105LA | 105 E105LA |            | 690 YANITE |            |
+1415 | 105 E105LA | 105 E105LA |            | 690 YANITE |            |
+1430 | 105 E105LA | 105 E105LA |            | 690 YANITE |            |
+1445 | 105 E105LA | 105 E105LA |            | 690 YANITE |            |
+----- ------------ ------------ ------------ ------------ ------------
+1500 | 105 E105LA | 105 E105LA | 420 SCHIEB | 690 YANITE |            |
+1515 | 105 E105LA | 105 E105LA | 420 SCHIEB | 690 YANITE |            |
+1530 | 105 E105LA | 105 E105LA | 420 SCHIEB | 690 YANITE |            |
+1545 | 105 E105LA | 105 E105LA | 420 SCHIEB | 690 YANITE |            |
+----- ------------ ------------ ------------ ------------ ------------
+1600 |            |            | 420 SCHIEB | 690 YANITE |            |
+1615 | 105 E105LA | 105 E105LA | 420 SCHIEB | 690 YANITE |            |
+1630 | 105 E105LA | 105 E105LA | 420 SCHIEB |            |            |
+1645 | 105 E105LA | 105 E105LA | 420 SCHIEB |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1700 | 105 E105LA | 105 E105LA | 420 SCHIEB |            |            |
+1715 | 105 E105LA | 105 E105LA |            |            |            |
+1730 | 105 E105LA | 105 E105LA |            |            |            |
+1745 | 105 E105LA | 105 E105LA |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1800 | 105 E105LA | 105 E105LA |            |            |            |
+1815 |            |            |            |            |            |
+
+
+
+               SPR 24  - GY 2049 WEEKLY USAGE - SPR 24 
+   DOES NOT SHOW EXACT START/END TIMES, ONLY USAGE IN 15-MIN BLOCKS
+
+     |   MONDAY   |  TUESDAY   | WEDNESDAY  |  THURSDAY  |   FRIDAY
+----- ------------ ------------ ------------ ------------ ------------
+ 830 |            |            |            |            |            |
+ 845 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+ 900 |            |            |            |            |            |
+ 915 |            |            |            |            |            |
+ 930 |            |            |            |            |            |
+ 945 |            | 406 ELSWIC |            | 406 ELSWIC |            |
+----- ------------ ------------ ------------ ------------ ------------
+1000 |            | 406 ELSWIC |            | 406 ELSWIC |            |
+1015 |            | 406 ELSWIC |            | 406 ELSWIC |            |
+1030 |            | 406 ELSWIC |            | 406 ELSWIC | 329 ELSWIC |
+1045 |            | 406 ELSWIC |            | 406 ELSWIC | 329 ELSWIC |
+----- ------------ ------------ ------------ ------------ ------------
+1100 |            | 406 ELSWIC |            | 406 ELSWIC | 329 ELSWIC |
+1115 |            |            |            |            | 329 ELSWIC |
+1130 | 583 RADER  | CCC AVAILA | 583 RADER  | CCC AVAILA |            |
+1145 | 583 RADER  | CCC AVAILA | 583 RADER  | CCC AVAILA |            |
+----- ------------ ------------ ------------ ------------ ------------
+1200 | 583 RADER  | CCC AVAILA | 583 RADER  | CCC AVAILA |            |
+1215 | 583 RADER  | CCC AVAILA | 583 RADER  | CCC AVAILA |            |
+1230 | 583 RADER  | CCC AVAILA | 583 RADER  | CCC AVAILA |            |
+1245 | 583 RADER  | CCC AVAILA | 583 RADER  | CCC AVAILA | 329 ELSWIC |
+----- ------------ ------------ ------------ ------------ ------------
+1300 |            |            |            |            | 329 ELSWIC |
+1315 | 122 OBRIEN | 417 KENDER | 122 OBRIEN | 417 KENDER | 329 ELSWIC |
+1330 | 122 OBRIEN | 417 KENDER | 122 OBRIEN | 417 KENDER | 329 ELSWIC |
+1345 | 122 OBRIEN | 417 KENDER | 122 OBRIEN | 417 KENDER | 329 ELSWIC |
+----- ------------ ------------ ------------ ------------ ------------
+1400 | 122 OBRIEN | 417 KENDER | 122 OBRIEN | 417 KENDER | 329 ELSWIC |
+1415 | 122 OBRIEN | 417 KENDER | 122 OBRIEN | 417 KENDER | 329 ELSWIC |
+1430 | 122 OBRIEN | 417 KENDER | 122 OBRIEN | 417 KENDER | 329 ELSWIC |
+1445 |            |            |            |            | 329 ELSWIC |
+----- ------------ ------------ ------------ ------------ ------------
+1500 | FFF AVAILA | 594 KIEU   | FFF AVAILA | 594 KIEU   | 329 ELSWIC |
+1515 | FFF AVAILA | 594 KIEU   | FFF AVAILA | 594 KIEU   | 329 ELSWIC |
+1530 | FFF AVAILA | 594 KIEU   | FFF AVAILA | 594 KIEU   | 329 ELSWIC |
+1545 | FFF AVAILA | 594 KIEU   | FFF AVAILA | 594 KIEU   | 329 ELSWIC |
+----- ------------ ------------ ------------ ------------ ------------
+1600 | FFF AVAILA | 594 KIEU   | FFF AVAILA | 594 KIEU   | 329 ELSWIC |
+1615 | FFF AVAILA | 594 KIEU   | FFF AVAILA | 594 KIEU   | 329 ELSWIC |
+1630 |            |            |            |            | 329 ELSWIC |
+1645 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1700 |            |            |            |            |            |
+1715 |            |            |            |            |            |
+1730 |            |            |            |            |            |
+1745 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1800 |            |            |            |            |            |
+1815 |            |            |            |            |            |
+
+
+
+               SPR 24  - GY 5051 WEEKLY USAGE - SPR 24 
+   DOES NOT SHOW EXACT START/END TIMES, ONLY USAGE IN 15-MIN BLOCKS
+
+     |   MONDAY   |  TUESDAY   | WEDNESDAY  |  THURSDAY  |   FRIDAY
+----- ------------ ------------ ------------ ------------ ------------
+ 830 |            |            |            |            |            |
+ 845 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+ 900 |            |            |            |            |            |
+ 915 |            |            |            |            |            |
+ 930 |            |            |            |            |            |
+ 945 |            | 150 KENDER |            | 150 KENDER |            |
+----- ------------ ------------ ------------ ------------ ------------
+1000 |            | 150 KENDER |            | 150 KENDER |            |
+1015 |            | 150 KENDER |            | 150 KENDER |            |
+1030 |            | 150 KENDER |            | 150 KENDER |            |
+1045 |            | 150 KENDER |            | 150 KENDER |            |
+----- ------------ ------------ ------------ ------------ ------------
+1100 |            | 150 KENDER |            | 150 KENDER | 586 ZHU    |
+1115 |            |            |            |            | 586 ZHU    |
+1130 | EEE AVAILA |            | EEE AVAILA | 333 STEVEN | 586 ZHU    |
+1145 | EEE AVAILA |            | EEE AVAILA | 333 STEVEN | 586 ZHU    |
+----- ------------ ------------ ------------ ------------ ------------
+1200 | EEE AVAILA |            | EEE AVAILA | 333 STEVEN | 586 ZHU    |
+1215 | EEE AVAILA |            | EEE AVAILA | 333 STEVEN | 586 ZHU    |
+1230 | EEE AVAILA |            | EEE AVAILA | 333 STEVEN | 586 ZHU    |
+1245 | EEE AVAILA |            | EEE AVAILA | 333 STEVEN | 586 ZHU    |
+----- ------------ ------------ ------------ ------------ ------------
+1300 |            |            |            | 333 STEVEN | 586 ZHU    |
+1315 |            |            |            | 333 STEVEN | 586 ZHU    |
+1330 |            |            |            | 333 STEVEN | 586 ZHU    |
+1345 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1400 | 333 STEVEN |            | 333 STEVEN |            | 333 STEVEN |
+1415 | 333 STEVEN |            | 333 STEVEN |            | 333 STEVEN |
+1430 | 333 STEVEN |            | 333 STEVEN |            | 333 STEVEN |
+1445 |            |            |            |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1500 | 114 E114LA | 341 JOHNSO | 114 E114LA | 341 JOHNSO |            |
+1515 | 114 E114LA | 341 JOHNSO | 114 E114LA | 341 JOHNSO |            |
+1530 | 114 E114LA | 341 JOHNSO | 114 E114LA | 341 JOHNSO |            |
+1545 | 114 E114LA | 341 JOHNSO | 114 E114LA | 341 JOHNSO |            |
+----- ------------ ------------ ------------ ------------ ------------
+1600 | 114 E114LA | 341 JOHNSO | 114 E114LA | 341 JOHNSO |            |
+1615 | 114 E114LA | 341 JOHNSO | 114 E114LA | 341 JOHNSO |            |
+1630 | 114 E114LA |            | 114 E114LA |            |            |
+1645 | 114 E114LA |            | 114 E114LA |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1700 |            |            |            |            |            |
+1715 |            |            |            |            |            |
+1730 | 114 E114LA |            | 114 E114LA |            |            |
+1745 | 114 E114LA |            | 114 E114LA |            |            |
+----- ------------ ------------ ------------ ------------ ------------
+1800 | 114 E114LA |            | 114 E114LA |            |            |
+1815 | 114 E114LA |            | 114 E114LA |            |            |
+
+
+ALL DONE.
