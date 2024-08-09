@@ -1,7 +1,7 @@
 # schedule-display
 Displays our department class schedule in easy to read tables
 
-## Code
+## Latest code versions
 
 - QBasic version: COURSE8.BAS
   
@@ -9,15 +9,19 @@ Displays our department class schedule in easy to read tables
   
 - Perl/CGI version for websites: [forthcoming]
 
+(I may leave older versions of the source code in the repository, for safe-keeping; this list will highlight the latest versions)
+
 ## Required input files
 
-- SP24WORK.TXT: a schedule file. Name it whatever you like. (This example was my "working" file for Spring 2024 semester.) File format: comma delimited, with these six fields: CourseCode, Instructor, Days, StartTime, EndTime, Room
+- SP24WORK.TXT: a schedule file. Name it whatever you like. (This example was my "working" file for Spring 2024 semester.) File format: comma delimited, with these six fields: CourseNumber, Instructor, Days, StartTime, EndTime, Room
 
   ```
   EAS-E 144, KIRKPATRICK, TR, 1315, 1430, ED 1120
   EAS-A 537/437, KIRKPATRICK, MWF, 1130, 1220, GY 2033
   ```
-  
+
+As is convention at IU, you may use "D" (Daily) for a course that meets all five days a week.
+
 - FACULTY.TXT: the list of faculty for whom individual schedules will be printed and also checked for day/time conflicts.
 
   ```
